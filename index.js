@@ -1,4 +1,4 @@
 const multiply = 
-const random = Number.random()
+const random = Math.floor(Math.random())
 const mod =
 const max =
