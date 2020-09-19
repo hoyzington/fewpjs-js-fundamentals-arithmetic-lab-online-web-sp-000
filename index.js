@@ -1,4 +1,4 @@
 const multiply = x
-const random = Math.floor(Math.random() * 10) + 1
+const random = Math.ceil(Math.random() * 10)
 const mod =
 const max =
