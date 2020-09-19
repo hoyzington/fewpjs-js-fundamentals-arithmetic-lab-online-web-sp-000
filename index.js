@@ -1,4 +1,4 @@
-const multiply = x
-const random = Math.ceil(Math.random() * 10)
-const mod = 16
-const max = Math.max(20)
+const multiply = x;
+const random = Math.ceil(Math.random() * 10);
+const mod = 16;
+const max = Math.max(20);
